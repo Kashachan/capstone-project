@@ -170,19 +170,19 @@ main {
 
 @media (min-width: 1300px) {
   body {
-      background-image: url('images/bg-1442_x_838.png');
+      background-image: url('Images/bg-1442_x_838.png');
   }
 }
 
 @media (min-width: 768px) and (max-width: 1299px) {
   body {
-      background-image: url('images/bg-1442_x_838.png');
+      background-image: url('Images/bg-1442_x_838.png');
   }
 }
 
 @media (max-width: 767px) {
   body {
-      background-image: url('images/bg-1300_x_756.png');
+      background-image: url('Images/bg-1300_x_756.png');
   }
   
 }
